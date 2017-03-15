@@ -13,10 +13,17 @@ Please add general stuff to master, if you want to customize something all ready
 ## structure of repo
 
 linux
+
   toolName
+  
     configurationFiles
+    
     setupFile
+
 win
+
   toolName
+  
     configurationFiles
+    
     setupFile
