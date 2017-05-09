@@ -37,3 +37,4 @@ filetype plugin indent on
 noremap <F3> :Autoformat<CR>
 map <C-n> :NERDTreeToggle<CR> n
 
+colorscheme evening
