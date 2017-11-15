@@ -55,6 +55,12 @@ trim = !git reflog expire --expire=now --all && git gc --prune=now
 
 st = status
 
+# Add pull alias for pull rebase and autostash
+
+pullr = pull --rebase --autostash
+
+
+
 ########### GIT SVN ###########
 svnr = svn rebase
 svnd = svn dcommit
